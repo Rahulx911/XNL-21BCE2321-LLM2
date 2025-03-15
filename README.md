@@ -101,7 +101,7 @@ Conclusion
 The project successfully demonstrates the advantages and limitations of extractive and abstractive summarization methods. Abstractive summarization, despite its resource-intensive nature, outperforms extractive summarization significantly in terms of quality and readability.
 
 Practical Implementation
-
+WANDB URL:-https://wandb.ai/jain-rahul28jain-vit-vellore/huggingface/runs/8groznnx/workspace?nw=nwuserjainrahul28jain
 Streamlit Application:
 
 Simple, user-friendly interface.
